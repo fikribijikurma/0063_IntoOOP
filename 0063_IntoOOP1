@@ -6,4 +6,8 @@ class mahasiswa {
         string name;
         int umur;
         string jurusan;
+
+        void output(){
+            
+        }
 }
