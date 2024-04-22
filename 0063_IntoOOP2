@@ -21,4 +21,8 @@ class bangunDatar{
             return panjang * Lebar;
         }
 
+        void display(){
+            
+        }
+
 }
